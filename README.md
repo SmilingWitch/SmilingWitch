@@ -1,11 +1,10 @@
-<div >
+<div>
  
 # Carried away by a CSS code 🕊️
 
 
 Biomadical Engineer & Frontend Developer
 -----------------------------------------
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
 
 Experienced in developing responsive and dynamic websites and web apps. 
 
