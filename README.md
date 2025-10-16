@@ -12,7 +12,7 @@ Experienced in developing responsive and dynamic websites and web apps.
 
 <p align="center">
  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=git,css,html,js,ts,react,nextjs,vite" />
+   <img src="https://skillicons.dev/icons?i=git,css,html,js,ts,react,nextjs,vite,reactnative" />
  </a>
 </p>
 
